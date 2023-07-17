@@ -1,3 +1,9 @@
 .youtube-img{
-    border-radius: 5px;
+    border-radius: 10px;
+}
+.text-dim{
+    color: #666666;
+}
+.separator-circle{
+    font-size: 5px;
 }
